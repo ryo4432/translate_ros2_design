@@ -4,3 +4,4 @@
 
 - [Parameter API design in ROS](./doc/parameter_api_design.md)
 - [Remapping Names](./doc/remapping_names.md)
+- [ROS QoS - Deadline, Liveliness, and Lifespan](./doc/deadline_liveliness_and_lifespan.md)
